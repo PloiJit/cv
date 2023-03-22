@@ -9,3 +9,15 @@ h1 {
 h3 {
     color: #9DC08B;
 }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 6px;
+    width: 6%;
+}
+
+img {
+    width: 10%;
+}
